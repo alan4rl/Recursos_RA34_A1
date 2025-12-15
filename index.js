@@ -73,6 +73,6 @@ else
       resultat = 2;
     }
 }
-  return result;
+  return resultat;
 }
   
