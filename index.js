@@ -45,7 +45,7 @@ function CalculaTipo(venta, retorno)
 
 if(venta >= 500)
 {
-  if(factor =100)
+  if(factor == 100)
   {
     resultat = 5;
   }
@@ -53,7 +53,7 @@ if(venta >= 500)
   {
     resultat = 4;
   }
-  else if(factor=0)
+  else if(factor == 0)
   {
     resultat = 0;
   }
