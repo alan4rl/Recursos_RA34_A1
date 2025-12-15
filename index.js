@@ -1,8 +1,8 @@
 function calcula() {
   var casella1 = document.getElementById("valor");
   var casella2 = document.getElementById("valor2");
-  var venta =casella1.value;
-  var retorno =  casella2.valor2;
+  var venta = casella1.value;
+  var retorno =  casella2.value;
   var tipo = CalculaTipo(venta, retorno);
   var resultat;
 
