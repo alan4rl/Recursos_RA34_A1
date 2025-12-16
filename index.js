@@ -35,7 +35,7 @@ casella3.value= resultat;
 }
 
 function CalculaTipo(venta, retorno)
-{
+{ 
   var factor = 0;
   var resultat= 0;
 
@@ -75,4 +75,4 @@ else
 }
   return resultat;
 }
-  
+
