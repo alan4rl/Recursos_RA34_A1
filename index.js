@@ -5,7 +5,7 @@ function calcula() {
   var retorno = casella2.value;
   var tipo = CalculaTipo(venta, retorno);
   var resultat;
-
+  
 switch (tipo) {
   case 5:
     resultat = "Eres un genio de la venta!!";
