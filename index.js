@@ -36,6 +36,9 @@ casella3.value= resultat;
 
 function CalculaTipo(venta, retorno)
 { 
+  if (venta <= 0) {
+    return 0;
+  }
   var factor = 0;
   var resultat= 0;
 
