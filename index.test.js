@@ -1,3 +1,13 @@
+/*
+He elejido un conjunto de pruebas basándome en el metodo CORRECT
+que hemos visto en el temario.
+- En la primera y la tercera podemos observar la cardinaliddad, ya que solo hay un elemento.
+- En la segunda prueba se observa la existencia, ya que los valores no existen.
+- En la cuarta prueba podemos observar la conformidad con el código, ya que aunque tenemos
+  ventas altas, tenemos también muchisimas devoluciones, y eso hace que no nos de como resultado
+  5 sino 1.
+*/
+
 
 const index = require("./index.js");
 
